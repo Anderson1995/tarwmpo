@@ -1,5 +1,5 @@
 {
-  "Version": "8.0.9",
+  "Version": "9.0.0",
   "ReleaseNotes": "..... SEMPRE MANTENHA SEU APP ATUALIZADO!!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nsupdate",
   "Sms": "https://raw.githubusercontent.com/nsbrop/tarwmpo/main/nssms",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "NET SUL POA | Versão 8.0.9",
+      "Name": "NET SUL POA | Versão 9.0.0",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "agi.netsul.store",
@@ -23,7 +23,7 @@
      },
      {
      
-      "Name": "ULTRA AZURE | Versão 8.0.9",
+      "Name": "ULTRA AZURE | Versão 9.0.0",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sul.sulbr.xyz",
@@ -40,7 +40,7 @@
       
  
       
-       "Name": "🔵 VIVO STORE ✅",
+       "Name": "🔵 VIVO STORE BRAZIL ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d14hvmqzsadx5a.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -52,7 +52,7 @@
     },
     {
      
-  "Name": "🔵 VIVO NSTV ✅",
+  "Name": "🔵 VIVO NSTV CANADÁ ✅",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: d3nojlslpnjlvi.cloudfront.net [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
@@ -60,14 +60,6 @@
       "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
-     
-     },
-     {
-     
-    
-
-    
-
       
       } 
     ]
